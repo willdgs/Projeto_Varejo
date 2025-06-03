@@ -1,0 +1,20 @@
+# Ambiente Virtual
+venv/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de dados grandes (opcional, dependendo do tamanho)
+# *.csv
+# *.db
+
+# Arquivos de configuração de IDE
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.swp
+*~
+
