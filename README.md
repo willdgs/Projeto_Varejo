@@ -42,8 +42,8 @@ O projeto foi desenvolvido como um exemplo prático para portfólio, mostrando h
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd <NOME_DO_DIRETORIO>
+    git clone <https://github.com/willdgs/Projeto_Varejo.git>
+    cd <Projeto_Varejo>
     ```
 2.  **Crie um Ambiente Virtual (Recomendado):**
     ```bash
@@ -91,5 +91,5 @@ O projeto foi desenvolvido como um exemplo prático para portfólio, mostrando h
 
 *   Willian
 
-*(Este projeto foi originalmente desenvolvido com o auxílio da IA Manus)*
+
 
