@@ -1,12 +1,12 @@
 # Projeto de Ciência de Dados: Análise de Vendas e Segmentação de Clientes no Varejo
 
-## Visão Geral
+## Visão Geral 🔎
 
 Este repositório contém um projeto completo de ciência de dados focado na análise de dados de vendas de uma empresa de varejo fictícia. O objetivo principal é demonstrar um fluxo de trabalho de ponta a ponta, desde a geração e tratamento de dados até a análise exploratória (EDA) e a segmentação de clientes utilizando Python e SQL.
 
 O projeto foi desenvolvido como um exemplo prático para portfólio, mostrando habilidades em manipulação de dados, visualização, modelagem (clustering) e documentação técnica.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 👩🏻‍💻
 
 *   **Linguagem Principal:** Python 3.11
 *   **Bibliotecas Python:**
@@ -17,7 +17,7 @@ O projeto foi desenvolvido como um exemplo prático para portfólio, mostrando h
 *   **Banco de Dados:** SQLite (para demonstrar integração SQL).
 *   **Formato de Documentação:** Markdown.
 
-## Estrutura do Projeto
+## Estrutura do Projeto 🔧
 
 ```
 /
