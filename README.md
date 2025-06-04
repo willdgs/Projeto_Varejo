@@ -89,7 +89,7 @@ O projeto foi desenvolvido como um exemplo prático para portfólio, mostrando h
 
 ## Autor
 
-*   Willian
+*   will_dgs
 
 
 
