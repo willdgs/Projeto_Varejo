@@ -38,7 +38,7 @@ O projeto foi desenvolvido como um exemplo prático para portfólio, mostrando h
 |-- .gitignore                   # Arquivo para ignorar arquivos no Git (será criado)
 ```
 
-## Como Executar
+## Como Executar 🪛
 
 1.  **Clone o Repositório:**
     ```bash
@@ -77,7 +77,7 @@ O projeto foi desenvolvido como um exemplo prático para portfólio, mostrando h
     *   Consulte o banco de dados `sales_database.db` usando uma ferramenta de sua preferência (ex: DB Browser for SQLite) ou via Python.
     *   Leia o relatório `projeto_ciencia_dados_varejo.md` para um entendimento completo do processo e dos insights.
 
-## Principais Etapas e Resultados
+## Principais Etapas e Resultados 📋
 
 1.  **Geração de Dados:** Criação de um dataset sintético realista com 50.000 transações.
 2.  **Limpeza e Pré-processamento:** Tratamento de valores nulos, verificação de duplicatas, conversão de tipos e engenharia de atributos (extração de componentes de data).
